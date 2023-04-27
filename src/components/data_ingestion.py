@@ -63,3 +63,4 @@ if __name__=="__main__":
 
     model_trainer_obj = ModelTrainer()
     print(model_trainer_obj.initiate_model_trainer(tarine_arr,test_arr))
+    
